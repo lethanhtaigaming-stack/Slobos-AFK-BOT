@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "thanhtaiconcak.aternos.me",
+    "ip": "thanhtaiconcak.aternos.me:11238",
     "port": 11238,
     "version": "1.26.1.1"
   },
